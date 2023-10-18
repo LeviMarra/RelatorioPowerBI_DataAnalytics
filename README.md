@@ -15,9 +15,9 @@ Relatório criado com o intuito de exercitar os conhecimentos nas ferramentas de
 
 ## Detalhes
 Neste projeto desenvolvi um relatório a fim de criar visuais baseados em análises com viés estatístico focado em Data Analytics.
-Com o uso de visuais diversos, paleta de cores, uso de botões e recursos de interação UI/UX, Funções estatísticas, historiograma, Criação de medidas diversas utilizando filtros e o DAX, bem como visão de TOPN, 
+Com o uso de visuais diversos, paleta de cores, uso de botões e recursos de interação UI/UX, Funções estatísticas, histograma, Criação de medidas diversas utilizando filtros e o DAX, bem como visão de TOPN, 
 identificação de exceções nos dados, identificação de outliers, agrupamento de dados, criação de compartimentos com os dados, clusterização,
-criação de análise temporal, recurso anaisar e insight rápidos.
+criação de análise temporal, recurso analisar e insight rápidos.
 
 ## **Author**
 Leví Marra (Follow me on [Linkedin](https://www.linkedin.com/in/levimarra/))
