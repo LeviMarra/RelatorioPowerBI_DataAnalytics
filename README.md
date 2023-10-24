@@ -11,6 +11,9 @@ Relatório criado com o intuito de exercitar os conhecimentos nas ferramentas de
 
 ![Relatório Data Analytics-projeto DIO-4](https://github.com/LeviMarra/RelatorioPowerBI_DataAnalytics/assets/137719953/b4b0ff5e-1684-4ff5-a8ed-fe72d4320389)
 
+![Captura de tela 2023-10-23 215647](https://github.com/LeviMarra/RelatorioPowerBI_DataAnalytics/assets/137719953/cf6eb2fb-78b9-4373-9c28-3e0b4f31db2f)
+
+
 [Link Dashboard publicado](https://app.powerbi.com/view?r=eyJrIjoiZGQzNGYyZjktNDcxMC00ODExLTgzZGQtNGM1YmI1MjA3ZjI2IiwidCI6ImQ2ZTY5NjZiLWY1ZmYtNGJkMy1iNjgyLTRjYjkxYTUxYTU2OSJ9)
 
 ## Detalhes
