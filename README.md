@@ -11,7 +11,7 @@ Relatório criado com o intuito de exercitar os conhecimentos nas ferramentas de
 
 ![Relatório Data Analytics-projeto DIO-4](https://github.com/LeviMarra/RelatorioPowerBI_DataAnalytics/assets/137719953/b4b0ff5e-1684-4ff5-a8ed-fe72d4320389)
 
-[Link Dashboard publicado](https://app.powerbi.com/view?r=eyJrIjoiNjg3ZDQ3ODYtOWYwNy00YTc3LTljMGItMzk3MDYzNDY5NTM4IiwidCI6ImQ2ZTY5NjZiLWY1ZmYtNGJkMy1iNjgyLTRjYjkxYTUxYTU2OSJ9)
+[Link Dashboard publicado](https://app.powerbi.com/view?r=eyJrIjoiZGQzNGYyZjktNDcxMC00ODExLTgzZGQtNGM1YmI1MjA3ZjI2IiwidCI6ImQ2ZTY5NjZiLWY1ZmYtNGJkMy1iNjgyLTRjYjkxYTUxYTU2OSJ9)
 
 ## Detalhes
 Neste projeto desenvolvi um relatório a fim de criar visuais baseados em análises com viés estatístico focado em Data Analytics.
